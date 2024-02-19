@@ -6,7 +6,7 @@ meta:
     title: Off - SSL/TLS encryption modes
 ---
 
-# Off - SSL/TLS encryption modes
+# Off - SSL/TLS encryption mode
 
 Setting your encryption mode to **Off (not recommended)** redirects any HTTPS request to plaintext HTTP.
 
